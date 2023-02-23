@@ -25,3 +25,25 @@ console.log(`Compare the value ${int === "30"}`);
 var age=22;
 var result = age>=21 ? "Congratulations" : "Not Eligible";
 console.log(result);
+
+
+var age=21;
+var result = age>=18 ? true : false;
+console.log(result);
+
+var eo=2;
+eo % 2== 0 ? console.log("Even Number") : console.log("Odd Number");
+
+//----------------------------------------------------------------------
+function greaterNum(x,y)
+{
+    return  x > y ? x :y;
+}
+
+console.log("Greater Number is: "+greaterNum(800,899));
+
+function evenOrOddNum(str)
+{
+    return str.length % 2 == 0 ? `${str} has 'EVEN' length ` : `${str} has 'ODD' length `;   
+}
+console.log(evenOrOddNum("Google Chrome"));
