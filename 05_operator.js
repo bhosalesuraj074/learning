@@ -22,3 +22,6 @@ console.log(`--------------------------------------------------------`);
 console.log(`Compare the value ${int === "30"}`);
 
 
+var age=22;
+var result = age>=21 ? "Congratulations" : "Not Eligible";
+console.log(result);
