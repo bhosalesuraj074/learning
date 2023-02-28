@@ -27,8 +27,14 @@ greet();
 
 //5. we can also declare arrow function  
 
-var greet = ()=>
+var greet = (a)=>
 {
-console.log("Hello");
+console.log(a**a);
 };
-greet();
+greet(10);
+
+var show = function()
+{
+  console.log("Hello World ...!");
+}
+show();
