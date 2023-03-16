@@ -6,6 +6,7 @@ let age = 33;
 show();//  Allowed as it is normal functions are hoisted 
 
 function show(){
+    console.log("show() function");
 }
 
 // greet(); // Not allowed as it is FE and FE does not hoisted 
