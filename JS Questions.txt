@@ -1,0 +1,100 @@
+What is JavaScript and what are its key features?
+What are the differences between var, let, and const?
+What is hoisting in JavaScript?
+What are the different data types in JavaScript?
+What is scope in JavaScript?
+What is closure in JavaScript?
+What is the difference between synchronous and asynchronous programming in JavaScript?
+What are callback functions and how do they work?
+What is the event loop in JavaScript?
+What are promises and how do they work?
+What is the difference between null and undefined?
+What is the this keyword in JavaScript?
+What are arrow functions and how are they different from regular functions?
+What are classes in JavaScript and how do they work?
+What is destructuring in JavaScript and how is it used?
+What is the spread operator in JavaScript and how is it used?
+What is the typeof operator and what is it used for?
+What are some common methods available on arrays in JavaScript?
+What are some common methods available on strings in JavaScript?
+What is the difference between == and === in JavaScript?
+What is the difference between a function declaration and a function expression?
+What is a higher-order function?
+What is the difference between a for loop and a forEach loop in JavaScript?
+What is the difference between a while loop and a do-while loop in JavaScript?
+What are template literals and how are they used in JavaScript?
+What is the difference between varargs and rest parameters in JavaScript?
+What is a generator function in JavaScript?
+What is the difference between slice() and splice()?
+What is a closure and how is it used in JavaScript?
+What is the difference between a shallow copy and a deep copy?
+What is the difference between let and var in JavaScript?
+What is the difference between an object and a map in JavaScript?
+What are the different ways to create objects in JavaScript?
+What is an IIFE (Immediately Invoked Function Expression) in JavaScript?
+What is a callback and how is it used in JavaScript?
+What is the difference between a synchronous and asynchronous callback?
+What is memoization and how is it used in JavaScript?
+What is a prototype in JavaScript?
+What is the difference between a static method and an instance method in JavaScript?
+What are the different ways to define a function in JavaScript?
+What is a closure and why is it important in JavaScript?
+What are the different types of errors in JavaScript?
+What is the difference between a syntax error and a runtime error?
+What is the difference between setTimeout() and setInterval()?
+What is a constructor in JavaScript?
+What is the difference between Object.create() and new Object()?
+What is the difference between a function declaration and a function expression?
+What is the difference between null and undefined?
+What is the difference between a primitive and a non-primitive data type in JavaScript?
+What is the difference between an object and an array in JavaScript?
+What is the difference between Math.round() and Math.floor()?
+What is the difference between == and ===?
+What is the difference between a map and a filter in JavaScript?
+What is the difference between a ternary operator and an if statement in JavaScript?
+What are some advantages of using JavaScript?
+What are some disadvantages of using JavaScript?
+What is the difference between a web worker and a service worker in JavaScript?
+What is the difference between an event and a listener in JavaScript?
+What is a decorator in JavaScript and how is it used?
+What is the difference between NaN and Infinity in JavaScript?
+What is a generator function in JavaScript and how is it used?
+What is memoization in JavaScript and how is it used?
+What is a promise chain in JavaScript and how is it used?
+What is the fetch API in JavaScript and how is it used?
+What is the async and await syntax in JavaScript and how is it used?
+What is a state management library in JavaScript and how is it used?
+What is a middleware in JavaScript and how is it used?
+What is the difference between call, apply, and bind in JavaScript?
+What is the delete operator in JavaScript and how is it used?
+What is the difference between a factory function and a constructor function in JavaScript?
+What is the difference between Object.freeze and Object.seal in JavaScript?
+What is the difference between Object.assign and spread syntax in JavaScript?
+What is the difference between setTimeout and setInterval in JavaScript?
+What is the difference between Symbol and Object in JavaScript?
+What is a weak map in JavaScript and how is it used?
+What is the difference between an observable and a promise in JavaScript?
+What is a binary tree in JavaScript and how is it used?
+What is the difference between a linked list and an array in JavaScript?
+What is the difference between a map and a set in JavaScript?
+What is the difference between a stack and a queue in JavaScript?
+What is the difference between a variable and a constant in JavaScript?
+What is a prototype in JavaScript and how is it used?
+What is the difference between a method and a property in JavaScript?
+What is the difference between parseInt and parseFloat in JavaScript?
+What is the window object in JavaScript and how is it used?
+What is the difference between querySelector and getElementById in JavaScript?
+What is the difference between an error and an exception in JavaScript?
+What is the difference between for...in and for...of loops in JavaScript?
+What is the bind method in JavaScript and how is it used?
+What is a generator in JavaScript and how is it used?
+What is a decorator in JavaScript and how is it used?
+What is the difference between a callback and a promise in JavaScript?
+What is the reduce method in JavaScript and how is it used?
+What is the difference between RegExp and String in JavaScript?
+What is the XMLHttpRequest object in JavaScript and how is it used?
+What is the difference between === and !== in JavaScript?
+What is the difference between a for loop and a while loop in JavaScript?
+What is the difference between a module and a script in JavaScript?
+What is the difference between JSON.parse and JSON.stringify in JavaScript?
+What is the difference between a shallow and deep copy in JavaScript?
